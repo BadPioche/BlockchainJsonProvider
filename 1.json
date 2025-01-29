@@ -1,0 +1,6 @@
+{
+  "name": "Loyalty Token - Clothes",
+  "description": "This token provides a discount on all clothes purchases.",
+  "discount_percentage": 5,
+  "purchase_category": "Clothes"
+}
