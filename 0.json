@@ -1,6 +1,0 @@
-{
-	"name": "Loyalty Token - Electronics",
-	"description": "This token provides a discount on all electronics purchases.",
-	"discount_amount_euros": 5,
-	"purchase_category": "Electronics"
-}
