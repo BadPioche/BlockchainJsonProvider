@@ -1,6 +1,6 @@
 {
 	"name": "Loyalty Token - hospitality",
 	"description": "This token provides a discount on all purchases concerning hospitality.",
-	"discount_percentage": 10,
+	"discount_amount_euros": 5,
 	"purchase_category": "Hospitality"
 }
